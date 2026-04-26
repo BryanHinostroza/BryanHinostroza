@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I’m a Big Data and Data Science student at TECSUP, currently in the 5th semester. I work as an IT Systems Analyst, actively involved in data mining projects and ETL processes for industrial and public sector environments.I love learning new technologies, experimenting with creative ideas, and developing solutions that are productive, innovative, and impactful.
+I’m a Big Data and Data Science student at TECSUP. I work as an IT Systems Analyst, actively involved in data mining projects and ETL processes for industrial and public sector environments.I love learning new technologies, experimenting with creative ideas, and developing solutions that are productive, innovative, and impactful.
 - 🌱 I’m currently learning ...
   - Machine Learning basics with Python
   - Power BI for interactive dashboards
