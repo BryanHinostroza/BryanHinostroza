@@ -4,6 +4,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
+
+
 # Hi! I'm Bryan 👋
 
 I’m a 6th-cycle Big Data and Data Science student at TECSUP. I specialize in Data Analytics, Business Intelligence, and ETL processes, with experience working in industrial and IT environments. I love learning new technologies, extracting insights from complex data, and developing solutions that are productive, innovative, and impactful.
