@@ -4,29 +4,30 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I’m a Big Data and Data Science student at TECSUP. I work as an IT Systems Analyst, actively involved in data mining projects and ETL processes for industrial and public sector environments.I love learning new technologies, experimenting with creative ideas, and developing solutions that are productive, innovative, and impactful.
-- 🌱 I’m currently learning ...
-  - Machine Learning basics with Python
-  - Power BI for interactive dashboards
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎸 I love playing electric guitar, 💜 rock music is my passion, 🏀 playing basketball, 🎮 enjoying video games, and ✈️ traveling to new places.
-- 📫 Reach out to me at: <a href="bryanhinostrozam@gmail.com">bryanhinostrozam@gmail.com</a>
+# Hi! I'm Bryan 👋
 
-## My Skills Include
+I’m a 6th-cycle Big Data and Data Science student at TECSUP. I specialize in Data Analytics, Business Intelligence, and ETL processes, with experience working in industrial and IT environments. I love learning new technologies, extracting insights from complex data, and developing solutions that are productive, innovative, and impactful.
 
-<h4> Languages </h4>
+- 🌱 **I’m currently exploring:** Web scraping and geo-spatial analysis for data mining projects.
+- 💼 **I’m actively looking for:** Data Analyst and Business Intelligence roles.
+- 👯 **I’m looking to collaborate on:** Open-source data engineering and data visualization projects.
+- 💬 **Ask me about:** Python, SQL, Power BI, ETL pipelines, and Google Cloud Platform (GCP).
+- ⚡ **Outside tech:** 🎸 Playing electric guitar in my band (huge AC/DC & rock fan!), 🏀 playing basketball, training at the gym, and ✈️ traveling to new places.
+- 📫 **Reach out to me at:** <a href="mailto:bryanhinostrozam@gmail.com">bryanhinostrozam@gmail.com</a>
+
+## 🛠️ My Skills Include
+
+<h4> Languages & Tools </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/sql-%2300000f.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft excel&logoColor=white">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white">
 </span>
 
-<h2>Github stats:</h2> 
+<h2>📊 Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=BryanHinostroza&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/BryanHinostroza)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=BryanHinostroza&theme=material-palenight)](https://github.com/BryanHinostroza)
-</div>
